@@ -1,0 +1,1 @@
+git add .;git commit -am"index Ìá½»";git push;
