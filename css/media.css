@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:1280px){
+	header nav ul{display:none;}
+	header nav .responsive-icon{display:block;}
+}
+
+@media screen and (max-width:992px){
+section .article .phone{display:none;}
+section .article li{float:none;width:100%;}
+section .article li div{float:left;width:33%}
+
+	
+}
+@media screen and (max-width:768px){
+section .article .phone{display:none;}
+section .article li{float:none;width:100%;}
+section .article li div{width:100%;}
+
+
+}
